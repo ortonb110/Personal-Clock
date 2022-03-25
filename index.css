@@ -1,0 +1,16 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 9.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: black;
+    color: #1CD2FC;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.time-container {
+    display: flex;
+    justify-content: center;
+}
